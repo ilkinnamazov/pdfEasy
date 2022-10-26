@@ -1,5 +1,4 @@
+import { Container, Grid } from "@mui/material";
 export default function App() {
-  return (
-    <div>App</div>
-  )
+  return <Grid container></Grid>;
 }
