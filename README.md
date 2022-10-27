@@ -1,3 +1,3 @@
 ## **pdfEasy**
 
-App convers images to PDF
+PDF creator from images
